@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3597657977
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02a74b6eb284feec902521a95a972291
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1455dcd17e661a5407cdddcc81b9972
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/piano.fbx
+- Assets/MyPiano.fbx
+Dependencies: []
